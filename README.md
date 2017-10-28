@@ -1,1 +1,2 @@
 # react-native-template-geirman
+This template accompanies a medium article I wrote describing how to create react native templates. Find it here... https://medium.com/@chris.geirman/the-1-2-3s-of-react-native-templates-1f5dda037e11
